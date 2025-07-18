@@ -19,8 +19,7 @@
   [8, 9, 4],
   [7, 6, 5]
  ]
- 
- 
+
  */
 
 
@@ -77,9 +76,5 @@ int main(int argc, const char * argv[]) {
         }
         cout<<endl;
     }
-    
-    
-    
-    
     
 }
