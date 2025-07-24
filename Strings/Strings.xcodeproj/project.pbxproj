@@ -79,6 +79,87 @@
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
+		77A766B22E30B47F00BAADB8 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		77A766BD2E30C0B500BAADB8 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		77A766E92E32310900BAADB8 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		77A766F42E3231D400BAADB8 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		77A766FF2E32330D00BAADB8 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		77B3DE8B2E327EEF00FCA6DA /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		77B3DE962E3283DD00FCA6DA /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		77B3DEA12E32849700FCA6DA /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		77B3DEAC2E328D8800FCA6DA /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
 		77D439B42E2C2E6300499F2D /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
@@ -144,6 +225,15 @@
 		774B96F02E2FD37D00D1BD49 /* Most frequent word in an array of strings Most frequent word in an array of strings */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Most frequent word in an array of strings Most frequent word in an array of strings"; sourceTree = BUILT_PRODUCTS_DIR; };
 		774B96FB2E2FF91900D1BD49 /* 819. Most Common Word */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "819. Most Common Word"; sourceTree = BUILT_PRODUCTS_DIR; };
 		77A766A92E30ABA700BAADB8 /* Max in String array */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Max in String array"; sourceTree = BUILT_PRODUCTS_DIR; };
+		77A766B42E30B47F00BAADB8 /* 14. Longest Common Prefix */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "14. Longest Common Prefix"; sourceTree = BUILT_PRODUCTS_DIR; };
+		77A766BF2E30C0B500BAADB8 /* 205. Isomorphic Strings */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "205. Isomorphic Strings"; sourceTree = BUILT_PRODUCTS_DIR; };
+		77A766EB2E32310900BAADB8 /* Change odd indexed character to ‘#' */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Change odd indexed character to ‘#'"; sourceTree = BUILT_PRODUCTS_DIR; };
+		77A766F62E3231D400BAADB8 /* counting Consonant in Str */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "counting Consonant in Str"; sourceTree = BUILT_PRODUCTS_DIR; };
+		77A767012E32330D00BAADB8 /* Check Palindrome */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Check Palindrome"; sourceTree = BUILT_PRODUCTS_DIR; };
+		77B3DE8D2E327EEF00FCA6DA /* 680. Valid Palindrome II */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "680. Valid Palindrome II"; sourceTree = BUILT_PRODUCTS_DIR; };
+		77B3DE982E3283DD00FCA6DA /* Reverse Second hal */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Reverse Second hal"; sourceTree = BUILT_PRODUCTS_DIR; };
+		77B3DEA32E32849700FCA6DA /* Convert in int (without buildin method) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Convert in int (without buildin method)"; sourceTree = BUILT_PRODUCTS_DIR; };
+		77B3DEAE2E328D8800FCA6DA /* Leetcode 2160 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Leetcode 2160"; sourceTree = BUILT_PRODUCTS_DIR; };
 		77D439B62E2C2E6300499F2D /* ReverseFunction */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ReverseFunction; sourceTree = BUILT_PRODUCTS_DIR; };
 		77D439C12E2C2E9B00499F2D /* SubstrFunction */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SubstrFunction; sourceTree = BUILT_PRODUCTS_DIR; };
 		77D439CC2E2C34BA00499F2D /* Count number of different Neighbouring charachter */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Count number of different Neighbouring charachter"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -191,6 +281,51 @@
 		77A766AA2E30ABA700BAADB8 /* Max in String array */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "Max in String array";
+			sourceTree = "<group>";
+		};
+		77A766B52E30B47F00BAADB8 /* 14. Longest Common Prefix */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "14. Longest Common Prefix";
+			sourceTree = "<group>";
+		};
+		77A766C02E30C0B500BAADB8 /* 205. Isomorphic Strings */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "205. Isomorphic Strings";
+			sourceTree = "<group>";
+		};
+		77A766EC2E32310900BAADB8 /* Change odd indexed character to ‘#' */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Change odd indexed character to ‘#'";
+			sourceTree = "<group>";
+		};
+		77A766F72E3231D500BAADB8 /* counting Consonant in Str */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "counting Consonant in Str";
+			sourceTree = "<group>";
+		};
+		77A767022E32330D00BAADB8 /* Check Palindrome */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Check Palindrome";
+			sourceTree = "<group>";
+		};
+		77B3DE8E2E327EEF00FCA6DA /* 680. Valid Palindrome II */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "680. Valid Palindrome II";
+			sourceTree = "<group>";
+		};
+		77B3DE992E3283DD00FCA6DA /* Reverse Second hal */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Reverse Second hal";
+			sourceTree = "<group>";
+		};
+		77B3DEA42E32849800FCA6DA /* Convert in int (without buildin method) */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Convert in int (without buildin method)";
+			sourceTree = "<group>";
+		};
+		77B3DEAF2E328D8800FCA6DA /* Leetcode 2160 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Leetcode 2160";
 			sourceTree = "<group>";
 		};
 		77D439B72E2C2E6300499F2D /* ReverseFunction */ = {
@@ -282,6 +417,69 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		77A766B12E30B47F00BAADB8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		77A766BC2E30C0B500BAADB8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		77A766E82E32310900BAADB8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		77A766F32E3231D400BAADB8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		77A766FE2E32330D00BAADB8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		77B3DE8A2E327EEF00FCA6DA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		77B3DE952E3283DD00FCA6DA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		77B3DEA02E32849700FCA6DA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		77B3DEAB2E328D8800FCA6DA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		77D439B32E2C2E6300499F2D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -344,6 +542,15 @@
 				774B96F12E2FD37D00D1BD49 /* Most frequent word in an array of strings Most frequent word in an array of strings */,
 				774B96FC2E2FF91900D1BD49 /* 819. Most Common Word */,
 				77A766AA2E30ABA700BAADB8 /* Max in String array */,
+				77A766B52E30B47F00BAADB8 /* 14. Longest Common Prefix */,
+				77A766C02E30C0B500BAADB8 /* 205. Isomorphic Strings */,
+				77A766EC2E32310900BAADB8 /* Change odd indexed character to ‘#' */,
+				77A766F72E3231D500BAADB8 /* counting Consonant in Str */,
+				77A767022E32330D00BAADB8 /* Check Palindrome */,
+				77B3DE8E2E327EEF00FCA6DA /* 680. Valid Palindrome II */,
+				77B3DE992E3283DD00FCA6DA /* Reverse Second hal */,
+				77B3DEA42E32849800FCA6DA /* Convert in int (without buildin method) */,
+				77B3DEAF2E328D8800FCA6DA /* Leetcode 2160 */,
 				77ECCEAD2E2AB75500679181 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -365,6 +572,15 @@
 				774B96F02E2FD37D00D1BD49 /* Most frequent word in an array of strings Most frequent word in an array of strings */,
 				774B96FB2E2FF91900D1BD49 /* 819. Most Common Word */,
 				77A766A92E30ABA700BAADB8 /* Max in String array */,
+				77A766B42E30B47F00BAADB8 /* 14. Longest Common Prefix */,
+				77A766BF2E30C0B500BAADB8 /* 205. Isomorphic Strings */,
+				77A766EB2E32310900BAADB8 /* Change odd indexed character to ‘#' */,
+				77A766F62E3231D400BAADB8 /* counting Consonant in Str */,
+				77A767012E32330D00BAADB8 /* Check Palindrome */,
+				77B3DE8D2E327EEF00FCA6DA /* 680. Valid Palindrome II */,
+				77B3DE982E3283DD00FCA6DA /* Reverse Second hal */,
+				77B3DEA32E32849700FCA6DA /* Convert in int (without buildin method) */,
+				77B3DEAE2E328D8800FCA6DA /* Leetcode 2160 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -548,6 +764,204 @@
 			productReference = 77A766A92E30ABA700BAADB8 /* Max in String array */;
 			productType = "com.apple.product-type.tool";
 		};
+		77A766B32E30B47F00BAADB8 /* 14. Longest Common Prefix */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 77A766B82E30B47F00BAADB8 /* Build configuration list for PBXNativeTarget "14. Longest Common Prefix" */;
+			buildPhases = (
+				77A766B02E30B47F00BAADB8 /* Sources */,
+				77A766B12E30B47F00BAADB8 /* Frameworks */,
+				77A766B22E30B47F00BAADB8 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				77A766B52E30B47F00BAADB8 /* 14. Longest Common Prefix */,
+			);
+			name = "14. Longest Common Prefix";
+			packageProductDependencies = (
+			);
+			productName = "14. Longest Common Prefix";
+			productReference = 77A766B42E30B47F00BAADB8 /* 14. Longest Common Prefix */;
+			productType = "com.apple.product-type.tool";
+		};
+		77A766BE2E30C0B500BAADB8 /* 205. Isomorphic Strings */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 77A766C32E30C0B500BAADB8 /* Build configuration list for PBXNativeTarget "205. Isomorphic Strings" */;
+			buildPhases = (
+				77A766BB2E30C0B500BAADB8 /* Sources */,
+				77A766BC2E30C0B500BAADB8 /* Frameworks */,
+				77A766BD2E30C0B500BAADB8 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				77A766C02E30C0B500BAADB8 /* 205. Isomorphic Strings */,
+			);
+			name = "205. Isomorphic Strings";
+			packageProductDependencies = (
+			);
+			productName = "205. Isomorphic Strings";
+			productReference = 77A766BF2E30C0B500BAADB8 /* 205. Isomorphic Strings */;
+			productType = "com.apple.product-type.tool";
+		};
+		77A766EA2E32310900BAADB8 /* Change odd indexed character to ‘#' */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 77A766F12E32310900BAADB8 /* Build configuration list for PBXNativeTarget "Change odd indexed character to ‘#'" */;
+			buildPhases = (
+				77A766E72E32310900BAADB8 /* Sources */,
+				77A766E82E32310900BAADB8 /* Frameworks */,
+				77A766E92E32310900BAADB8 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				77A766EC2E32310900BAADB8 /* Change odd indexed character to ‘#' */,
+			);
+			name = "Change odd indexed character to ‘#'";
+			packageProductDependencies = (
+			);
+			productName = "Change odd indexed character to ‘#'";
+			productReference = 77A766EB2E32310900BAADB8 /* Change odd indexed character to ‘#' */;
+			productType = "com.apple.product-type.tool";
+		};
+		77A766F52E3231D400BAADB8 /* counting Consonant in Str */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 77A766FA2E3231D500BAADB8 /* Build configuration list for PBXNativeTarget "counting Consonant in Str" */;
+			buildPhases = (
+				77A766F22E3231D400BAADB8 /* Sources */,
+				77A766F32E3231D400BAADB8 /* Frameworks */,
+				77A766F42E3231D400BAADB8 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				77A766F72E3231D500BAADB8 /* counting Consonant in Str */,
+			);
+			name = "counting Consonant in Str";
+			packageProductDependencies = (
+			);
+			productName = "counting Consonant in Str";
+			productReference = 77A766F62E3231D400BAADB8 /* counting Consonant in Str */;
+			productType = "com.apple.product-type.tool";
+		};
+		77A767002E32330D00BAADB8 /* Check Palindrome */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 77A767052E32330D00BAADB8 /* Build configuration list for PBXNativeTarget "Check Palindrome" */;
+			buildPhases = (
+				77A766FD2E32330D00BAADB8 /* Sources */,
+				77A766FE2E32330D00BAADB8 /* Frameworks */,
+				77A766FF2E32330D00BAADB8 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				77A767022E32330D00BAADB8 /* Check Palindrome */,
+			);
+			name = "Check Palindrome";
+			packageProductDependencies = (
+			);
+			productName = "Check Palindrome";
+			productReference = 77A767012E32330D00BAADB8 /* Check Palindrome */;
+			productType = "com.apple.product-type.tool";
+		};
+		77B3DE8C2E327EEF00FCA6DA /* 680. Valid Palindrome II */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 77B3DE932E327EEF00FCA6DA /* Build configuration list for PBXNativeTarget "680. Valid Palindrome II" */;
+			buildPhases = (
+				77B3DE892E327EEF00FCA6DA /* Sources */,
+				77B3DE8A2E327EEF00FCA6DA /* Frameworks */,
+				77B3DE8B2E327EEF00FCA6DA /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				77B3DE8E2E327EEF00FCA6DA /* 680. Valid Palindrome II */,
+			);
+			name = "680. Valid Palindrome II";
+			packageProductDependencies = (
+			);
+			productName = "680. Valid Palindrome II";
+			productReference = 77B3DE8D2E327EEF00FCA6DA /* 680. Valid Palindrome II */;
+			productType = "com.apple.product-type.tool";
+		};
+		77B3DE972E3283DD00FCA6DA /* Reverse Second hal */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 77B3DE9C2E3283DD00FCA6DA /* Build configuration list for PBXNativeTarget "Reverse Second hal" */;
+			buildPhases = (
+				77B3DE942E3283DD00FCA6DA /* Sources */,
+				77B3DE952E3283DD00FCA6DA /* Frameworks */,
+				77B3DE962E3283DD00FCA6DA /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				77B3DE992E3283DD00FCA6DA /* Reverse Second hal */,
+			);
+			name = "Reverse Second hal";
+			packageProductDependencies = (
+			);
+			productName = "Reverse Second hal";
+			productReference = 77B3DE982E3283DD00FCA6DA /* Reverse Second hal */;
+			productType = "com.apple.product-type.tool";
+		};
+		77B3DEA22E32849700FCA6DA /* Convert in int (without buildin method) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 77B3DEA72E32849800FCA6DA /* Build configuration list for PBXNativeTarget "Convert in int (without buildin method)" */;
+			buildPhases = (
+				77B3DE9F2E32849700FCA6DA /* Sources */,
+				77B3DEA02E32849700FCA6DA /* Frameworks */,
+				77B3DEA12E32849700FCA6DA /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				77B3DEA42E32849800FCA6DA /* Convert in int (without buildin method) */,
+			);
+			name = "Convert in int (without buildin method)";
+			packageProductDependencies = (
+			);
+			productName = "Convert in int (without buildin method)";
+			productReference = 77B3DEA32E32849700FCA6DA /* Convert in int (without buildin method) */;
+			productType = "com.apple.product-type.tool";
+		};
+		77B3DEAD2E328D8800FCA6DA /* Leetcode 2160 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 77B3DEB22E328D8800FCA6DA /* Build configuration list for PBXNativeTarget "Leetcode 2160" */;
+			buildPhases = (
+				77B3DEAA2E328D8800FCA6DA /* Sources */,
+				77B3DEAB2E328D8800FCA6DA /* Frameworks */,
+				77B3DEAC2E328D8800FCA6DA /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				77B3DEAF2E328D8800FCA6DA /* Leetcode 2160 */,
+			);
+			name = "Leetcode 2160";
+			packageProductDependencies = (
+			);
+			productName = "Leetcode 2160";
+			productReference = 77B3DEAE2E328D8800FCA6DA /* Leetcode 2160 */;
+			productType = "com.apple.product-type.tool";
+		};
 		77D439B52E2C2E6300499F2D /* ReverseFunction */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 77D439BC2E2C2E6300499F2D /* Build configuration list for PBXNativeTarget "ReverseFunction" */;
@@ -713,6 +1127,33 @@
 					77A766A82E30ABA700BAADB8 = {
 						CreatedOnToolsVersion = 16.0;
 					};
+					77A766B32E30B47F00BAADB8 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					77A766BE2E30C0B500BAADB8 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					77A766EA2E32310900BAADB8 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					77A766F52E3231D400BAADB8 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					77A767002E32330D00BAADB8 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					77B3DE8C2E327EEF00FCA6DA = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					77B3DE972E3283DD00FCA6DA = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					77B3DEA22E32849700FCA6DA = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					77B3DEAD2E328D8800FCA6DA = {
+						CreatedOnToolsVersion = 16.0;
+					};
 					77D439B52E2C2E6300499F2D = {
 						CreatedOnToolsVersion = 16.0;
 					};
@@ -761,6 +1202,15 @@
 				774B96EF2E2FD37D00D1BD49 /* Most frequent word in an array of strings Most frequent word in an array of strings */,
 				774B96FA2E2FF91900D1BD49 /* 819. Most Common Word */,
 				77A766A82E30ABA700BAADB8 /* Max in String array */,
+				77A766B32E30B47F00BAADB8 /* 14. Longest Common Prefix */,
+				77A766BE2E30C0B500BAADB8 /* 205. Isomorphic Strings */,
+				77A766EA2E32310900BAADB8 /* Change odd indexed character to ‘#' */,
+				77A766F52E3231D400BAADB8 /* counting Consonant in Str */,
+				77A767002E32330D00BAADB8 /* Check Palindrome */,
+				77B3DE8C2E327EEF00FCA6DA /* 680. Valid Palindrome II */,
+				77B3DE972E3283DD00FCA6DA /* Reverse Second hal */,
+				77B3DEA22E32849700FCA6DA /* Convert in int (without buildin method) */,
+				77B3DEAD2E328D8800FCA6DA /* Leetcode 2160 */,
 			);
 		};
 /* End PBXProject section */
@@ -816,6 +1266,69 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		77A766A52E30ABA700BAADB8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		77A766B02E30B47F00BAADB8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		77A766BB2E30C0B500BAADB8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		77A766E72E32310900BAADB8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		77A766F22E3231D400BAADB8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		77A766FD2E32330D00BAADB8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		77B3DE892E327EEF00FCA6DA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		77B3DE942E3283DD00FCA6DA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		77B3DE9F2E32849700FCA6DA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		77B3DEAA2E328D8800FCA6DA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -988,6 +1501,150 @@
 			name = Debug;
 		};
 		77A766AE2E30ABA700BAADB8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		77A766B92E30B47F00BAADB8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		77A766BA2E30B47F00BAADB8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		77A766C42E30C0B500BAADB8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		77A766C52E30C0B500BAADB8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		77A766EF2E32310900BAADB8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		77A766F02E32310900BAADB8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		77A766FB2E3231D500BAADB8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		77A766FC2E3231D500BAADB8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		77A767062E32330D00BAADB8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		77A767072E32330D00BAADB8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		77B3DE912E327EEF00FCA6DA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		77B3DE922E327EEF00FCA6DA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		77B3DE9D2E3283DD00FCA6DA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		77B3DE9E2E3283DD00FCA6DA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		77B3DEA82E32849800FCA6DA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		77B3DEA92E32849800FCA6DA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		77B3DEB32E328D8800FCA6DA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		77B3DEB42E328D8800FCA6DA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -1277,6 +1934,87 @@
 			buildConfigurations = (
 				77A766AD2E30ABA700BAADB8 /* Debug */,
 				77A766AE2E30ABA700BAADB8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		77A766B82E30B47F00BAADB8 /* Build configuration list for PBXNativeTarget "14. Longest Common Prefix" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				77A766B92E30B47F00BAADB8 /* Debug */,
+				77A766BA2E30B47F00BAADB8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		77A766C32E30C0B500BAADB8 /* Build configuration list for PBXNativeTarget "205. Isomorphic Strings" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				77A766C42E30C0B500BAADB8 /* Debug */,
+				77A766C52E30C0B500BAADB8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		77A766F12E32310900BAADB8 /* Build configuration list for PBXNativeTarget "Change odd indexed character to ‘#'" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				77A766EF2E32310900BAADB8 /* Debug */,
+				77A766F02E32310900BAADB8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		77A766FA2E3231D500BAADB8 /* Build configuration list for PBXNativeTarget "counting Consonant in Str" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				77A766FB2E3231D500BAADB8 /* Debug */,
+				77A766FC2E3231D500BAADB8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		77A767052E32330D00BAADB8 /* Build configuration list for PBXNativeTarget "Check Palindrome" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				77A767062E32330D00BAADB8 /* Debug */,
+				77A767072E32330D00BAADB8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		77B3DE932E327EEF00FCA6DA /* Build configuration list for PBXNativeTarget "680. Valid Palindrome II" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				77B3DE912E327EEF00FCA6DA /* Debug */,
+				77B3DE922E327EEF00FCA6DA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		77B3DE9C2E3283DD00FCA6DA /* Build configuration list for PBXNativeTarget "Reverse Second hal" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				77B3DE9D2E3283DD00FCA6DA /* Debug */,
+				77B3DE9E2E3283DD00FCA6DA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		77B3DEA72E32849800FCA6DA /* Build configuration list for PBXNativeTarget "Convert in int (without buildin method)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				77B3DEA82E32849800FCA6DA /* Debug */,
+				77B3DEA92E32849800FCA6DA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		77B3DEB22E328D8800FCA6DA /* Build configuration list for PBXNativeTarget "Leetcode 2160" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				77B3DEB32E328D8800FCA6DA /* Debug */,
+				77B3DEB42E328D8800FCA6DA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

@@ -6,9 +6,21 @@
 //
 
 #include <iostream>
+#include<vector>
+using namespace std;
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
-    return 0;
+    vector<string>s={"0123","0023","456","00182","002901"};
+    int temp=0;
+    int ind=0;
+//    int max=0;
+    for(int i =0;i<s.size();i++){
+        if(temp<stoi(s[i])){
+            temp=stoi(s[i]);
+            ind=i;
+        }
+    }
+    
+    
+    cout<<temp<<" "<<s[ind];
 }
