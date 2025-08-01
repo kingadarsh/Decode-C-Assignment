@@ -70,6 +70,15 @@
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
+		7764A33C2E36846200702C19 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
 		77A766A72E30ABA700BAADB8 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
@@ -224,6 +233,7 @@
 		774B96CE2E2E9AFC00D1BD49 /* 692. Top K Frequent Words */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "692. Top K Frequent Words"; sourceTree = BUILT_PRODUCTS_DIR; };
 		774B96F02E2FD37D00D1BD49 /* Most frequent word in an array of strings Most frequent word in an array of strings */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Most frequent word in an array of strings Most frequent word in an array of strings"; sourceTree = BUILT_PRODUCTS_DIR; };
 		774B96FB2E2FF91900D1BD49 /* 819. Most Common Word */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "819. Most Common Word"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7764A33E2E36846200702C19 /* 796. Rotate String */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "796. Rotate String"; sourceTree = BUILT_PRODUCTS_DIR; };
 		77A766A92E30ABA700BAADB8 /* Max in String array */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Max in String array"; sourceTree = BUILT_PRODUCTS_DIR; };
 		77A766B42E30B47F00BAADB8 /* 14. Longest Common Prefix */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "14. Longest Common Prefix"; sourceTree = BUILT_PRODUCTS_DIR; };
 		77A766BF2E30C0B500BAADB8 /* 205. Isomorphic Strings */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "205. Isomorphic Strings"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -276,6 +286,11 @@
 		774B96FC2E2FF91900D1BD49 /* 819. Most Common Word */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "819. Most Common Word";
+			sourceTree = "<group>";
+		};
+		7764A33F2E36846200702C19 /* 796. Rotate String */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "796. Rotate String";
 			sourceTree = "<group>";
 		};
 		77A766AA2E30ABA700BAADB8 /* Max in String array */ = {
@@ -404,6 +419,13 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		774B96F82E2FF91900D1BD49 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7764A33B2E36846200702C19 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -551,6 +573,7 @@
 				77B3DE992E3283DD00FCA6DA /* Reverse Second hal */,
 				77B3DEA42E32849800FCA6DA /* Convert in int (without buildin method) */,
 				77B3DEAF2E328D8800FCA6DA /* Leetcode 2160 */,
+				7764A33F2E36846200702C19 /* 796. Rotate String */,
 				77ECCEAD2E2AB75500679181 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -581,6 +604,7 @@
 				77B3DE982E3283DD00FCA6DA /* Reverse Second hal */,
 				77B3DEA32E32849700FCA6DA /* Convert in int (without buildin method) */,
 				77B3DEAE2E328D8800FCA6DA /* Leetcode 2160 */,
+				7764A33E2E36846200702C19 /* 796. Rotate String */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -740,6 +764,28 @@
 			);
 			productName = "819. Most Common Word";
 			productReference = 774B96FB2E2FF91900D1BD49 /* 819. Most Common Word */;
+			productType = "com.apple.product-type.tool";
+		};
+		7764A33D2E36846200702C19 /* 796. Rotate String */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7764A3442E36846200702C19 /* Build configuration list for PBXNativeTarget "796. Rotate String" */;
+			buildPhases = (
+				7764A33A2E36846200702C19 /* Sources */,
+				7764A33B2E36846200702C19 /* Frameworks */,
+				7764A33C2E36846200702C19 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				7764A33F2E36846200702C19 /* 796. Rotate String */,
+			);
+			name = "796. Rotate String";
+			packageProductDependencies = (
+			);
+			productName = "796. Rotate String";
+			productReference = 7764A33E2E36846200702C19 /* 796. Rotate String */;
 			productType = "com.apple.product-type.tool";
 		};
 		77A766A82E30ABA700BAADB8 /* Max in String array */ = {
@@ -1124,6 +1170,9 @@
 					774B96FA2E2FF91900D1BD49 = {
 						CreatedOnToolsVersion = 16.0;
 					};
+					7764A33D2E36846200702C19 = {
+						CreatedOnToolsVersion = 16.0;
+					};
 					77A766A82E30ABA700BAADB8 = {
 						CreatedOnToolsVersion = 16.0;
 					};
@@ -1211,6 +1260,7 @@
 				77B3DE972E3283DD00FCA6DA /* Reverse Second hal */,
 				77B3DEA22E32849700FCA6DA /* Convert in int (without buildin method) */,
 				77B3DEAD2E328D8800FCA6DA /* Leetcode 2160 */,
+				7764A33D2E36846200702C19 /* 796. Rotate String */,
 			);
 		};
 /* End PBXProject section */
@@ -1259,6 +1309,13 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		774B96F72E2FF91900D1BD49 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7764A33A2E36846200702C19 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -1485,6 +1542,22 @@
 			name = Debug;
 		};
 		774B97012E2FF91900D1BD49 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		7764A3422E36846200702C19 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		7764A3432E36846200702C19 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -1925,6 +1998,15 @@
 			buildConfigurations = (
 				774B97002E2FF91900D1BD49 /* Debug */,
 				774B97012E2FF91900D1BD49 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7764A3442E36846200702C19 /* Build configuration list for PBXNativeTarget "796. Rotate String" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7764A3422E36846200702C19 /* Debug */,
+				7764A3432E36846200702C19 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
